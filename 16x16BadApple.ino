@@ -2,8 +2,6 @@
 #include <SPI.h>
 #include <MD_MAX72xx.h>
 
-// Simplified 16×16 Bad Apple display on ESP32 + 4× MAX7219
-
 #define HARDWARE_TYPE MD_MAX72XX::FC16_HW
 #define MAX_DEVICES   4
 #define CS_PIN        5
