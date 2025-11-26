@@ -7,3 +7,13 @@ This code is then uploaded to a microcontroller using Arduino IDE 1.8.19, here I
 
 Below is the schematic of the circuit:
 <img width="956" height="572" alt="Screenshot 2025-11-25 201615" src="https://github.com/user-attachments/assets/c3c26e1a-d8eb-4472-add9-35a629c6da75" />
+
+
+Components:
+  1. Breadboard (optional).
+  2. ESP32.
+  3. x4 8x8 Matrix Display.
+  4. Wires/jumper wires.
+
+Software:
+  1. Arduino IDE ver. 1.8.19.
